@@ -4,7 +4,7 @@
 
 🎯Focado em construir uma base sólida nos principais conceitos de computação e desenvolvimento web.
 
-#### Pricipais Interesses: Kotlin, Python, JavaScript.
+📖 Pricipais Interesses: Kotlin, Python, JavaScript.
 
 <img alt="top langs" width='40%' src="https://github-readme-stats.vercel.app/api/top-langs/?username=Davilt4&layout=compact&theme=dark"/>
 
