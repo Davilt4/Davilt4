@@ -1,6 +1,6 @@
 ## Bem vindo(a)!
 
-🎓Estudante de software no IFPB.
+🎓Sistemas para internet no IFPB.
 
 🎯Focado em construir uma base sólida nos principais conceitos de computação e desenvolvimento web.
 
