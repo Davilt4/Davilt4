@@ -1,6 +1,6 @@
 ## Bem vindo(a)!
 
-🎓Sistemas para internet no IFPB.
+🎓Sistemas para internet no IFPB. (2° Período)
 
 🎯Focado em construir uma base sólida nos principais conceitos de computação e desenvolvimento web.
 
